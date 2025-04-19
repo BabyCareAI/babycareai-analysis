@@ -1,5 +1,8 @@
 # babycareai-analysis
 
+# 문서화중입니다.
+
+# ---legacy---
 ```
 📦 
 ├─ README.md
