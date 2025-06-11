@@ -1,8 +1,12 @@
 # babycareai-analysis
 
-# 문서화중입니다.
+## 🏗️ AWS 클라우드 기반 데이터 파이프라인
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/632987b8-dbf1-42ae-905c-81e427051830" />
 
-# ---legacy---
+## 데이터 마트 스키마
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/da4eb4cf-0f28-4509-bb52-e4e5968baa2b" />
+
+## 📁 레포지토리 구조
 ```
 📦 
 ├─ README.md
